@@ -7,14 +7,29 @@ export default function Footer() {
     <div className="Footer">
       <p>
         This project was coded by{" "}
-        <a href="https://www.shecodes.io/graduates/93323-beatriz-gordo">
+        <a
+          href="https://www.shecodes.io/graduates/93323-beatriz-gordo"
+          target="_blank"
+          rel="noreferrer"
+        >
           Beatriz Gordo
         </a>{" "}
         and is{" "}
-        <a href="https://github.com/beatrizpmgordo/WeatherApp">
+        <a
+          href="https://github.com/beatrizpmgordo/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           open sourced on GitHub
         </a>{" "}
-        and <a href="https://app.netlify.com/">hosted on Netlifly</a>
+        and{" "}
+        <a
+          href="https://app.netlify.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          hosted on Netlifly
+        </a>
       </p>
     </div>
   );
