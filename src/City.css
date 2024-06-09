@@ -1,0 +1,18 @@
+.City h1 {
+  margin: 40px 30px 0;
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.City ul {
+  margin-left: 30px;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 1, 5;
+  list-style: none;
+}
+
+.City li:first-letter {
+  text-transform: capitalize;
+}

@@ -1,0 +1,21 @@
+.Temperature {
+  margin: 80px 0px 80px 80px;
+}
+
+.Temperature a {
+  text-decoration: none;
+}
+
+.current-temperature {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.Temperature .active {
+  color: #111;
+  cursor: default;
+}
+
+.Temperature .active:hover {
+  text-decoration: none;
+}

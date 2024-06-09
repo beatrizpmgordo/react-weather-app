@@ -1,0 +1,14 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Lato", sans-serif;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(242, 235, 243) 0%,
+    rgb(234, 241, 249) 90.1%
+  );
+}
+
+.container {
+  margin: 60px auto;
+  max-width: 600px;
+}

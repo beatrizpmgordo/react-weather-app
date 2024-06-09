@@ -1,0 +1,12 @@
+.Footer p {
+  font-size: 12px;
+  text-align: center;
+}
+
+.Footer a {
+  text-decoration: none;
+}
+
+.Footer a:hover {
+  text-decoration: underline;
+}
