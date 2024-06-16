@@ -9,19 +9,21 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Search />
-      <div className="weather-app">
-        <div className="row">
-          <div className="col-4">
-            <City value="Lisbon" />
-            <Conditions />
-          </div>
-          <div className="col-8">
-            <Temperature value="☀️ 18" />
+      <div className="container">
+        <Search />
+        <div className="weather-app">
+          <div className="row">
+            <div className="col-4">
+              <City value="Lisbon" />
+              <Conditions />
+            </div>
+            <div className="col-8">
+              <Temperature value="☀️ 18" />
+            </div>
           </div>
         </div>
+        <Footer />
       </div>
-      <Footer />
     </div>
   );
 }
