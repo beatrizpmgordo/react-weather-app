@@ -12,6 +12,9 @@ export default function Conditions() {
           <Humidity value={78} />
         </li>
         <li>
+          <Humidity value={78} />
+        </li>
+        <li>
           <Wind value={4} />
         </li>
       </ul>
