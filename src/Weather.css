@@ -28,7 +28,6 @@
 
 .Conditions .weather-conditions {
   margin: 20px 30px;
-  margin-right: 10px;
   padding: 0;
 }
 
@@ -46,7 +45,7 @@
 }
 
 .Temperature {
-  margin: 80px 0px 80px 80px;
+  margin: 60px 0px 50px 60px;
 }
 
 .Temperature a {
