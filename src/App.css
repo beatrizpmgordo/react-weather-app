@@ -2,12 +2,3 @@
   margin: 60px auto;
   max-width: 600px;
 }
-
-.weather-app {
-  border: 1px solid #dadde1;
-  padding: 20px;
-  margin: 20px auto;
-  border-radius: 10px;
-  max-width: 600px;
-  background: #fff;
-}
