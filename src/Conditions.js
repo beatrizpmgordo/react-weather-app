@@ -1,4 +1,5 @@
 import React from "react";
+import Precipitation from "./Precipitation";
 import Humidity from "./Humidity";
 import Wind from "./Wind";
 
@@ -9,7 +10,7 @@ export default function Conditions() {
     <div className="Conditions">
       <ul className="weather-conditions">
         <li>
-          <Humidity value={78} />
+          <Precipitation value={20} />
         </li>
         <li>
           <Humidity value={78} />
