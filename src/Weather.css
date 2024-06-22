@@ -49,11 +49,7 @@
 }
 
 .Temperature {
-  margin: 55px 0px 0px 80px;
-}
-
-.Temperature a {
-  text-decoration: none;
+  margin: 55px 0px 0px 100px;
 }
 
 .current-temperature {
@@ -65,13 +61,4 @@
   margin-right: 15px;
   position: relative;
   top: 13px;
-}
-
-.Temperature .active {
-  color: #111;
-  cursor: default;
-}
-
-.Temperature .active:hover {
-  text-decoration: none;
 }
